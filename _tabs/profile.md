@@ -22,10 +22,12 @@ My primary areas of interest are Data Science and Data Engineering.
 Education
 ---------
 
-2020-2023
+2020-2024
 :   **Bachelor of Arts in English Language and Literature**; Sungkyunkwan University (Seoul)
 
     **Double Major : Software Engineering**
+
+    **Course Work**  : Operating Systems, Computer Networks, Mobil App Programming Lab, Data Structures, JAVA Programming Lab, Introduction to Computer Architectures, Programming Languages, Fundamental of Data Analytics, Machine Learning and Deep Learning, Smart Facotry Capstone Design 1, Algorithms, System Programming Lab, Introduction to Database, System Program, Introduction to Software Engineering, Fundamental of Machine Learning, Introduction to Artifical Intelligence, Capstone Design, Open Source Software Lab
 
 Technical Experience
 --------------------
@@ -41,9 +43,9 @@ Ku, Byungjin, Kangsan Kim, and Jongpil Jeong. “Real-Time ISR-YOLOv4 Based Smal
 
 
 Programming Languages
-:   **Python, Java, Kotlin, C, JavaScript**
+:   **Python, SQL, Java, Kotlin, C, JavaScript, TypeScript**
 
-:   Basic knowledge of x86 assembly, 
+:   Basic knowledge of x86 assembly, Next.js, JavaSpring, Node.js
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
@@ -51,6 +53,6 @@ Extra Section
 ----------------------------------------
 
 * Human Languages:
-
-     * English - TOEIC : 980, OPIc : AL 
-
+     * English 
+       * TOEIC : 980
+       * OPIc : AL 
